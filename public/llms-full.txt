@@ -1,0 +1,1524 @@
+# color a dice
+
+An interactive color dice roller web application that allows users to roll between 1 and 6 dice simultaneously. Each die displays one of six vibrant colors: yellow, orange, blue, red, green, and purple. Users can select a custom background color, and the system ensures that whichever color is chosen as the background will never appear on any of the dice — creating a visually distinct and conflict-free color experience.
+
+Source: https://color-a-dice-9e9ddbc3.zappy5.app
+
+---
+
+## Roll the Unexpected — color a dice
+
+URL: https://color-a-dice-9e9ddbc3.zappy5.app
+Description: Unleash creativity with our interactive color dice roller! Roll 1–6 dice in vibrant hues—yellow, orange, blue, red, green, purple—on a custom background that never matches. Start rolling now!
+
+Roll the Unexpected — color a dice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- About
+- Why Use It
+- FAQ
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dice
+
+
+1 DICE
+2 DICE
+3 DICE
+4 DICE
+5 DICE
+6 DICE
+
+
+
+
+
+
+
+Background
+
+
+No Exclude
+Yellow
+Orange
+Blue
+Red
+Green
+Purple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROLL AGAIN
+
+
+
+
+
+
+
+
+
+
+## Powerful Dice Rolling Features
+
+
+Everything you need for a vibrant, conflict-free color dice experience
+
+
+
+
+
+
+
+
+
+### Roll 1–6 Dice
+
+
+Roll between 1 and 6 dice simultaneously with a single click. Perfect for any game that needs multiple dice outcomes at once.
+
+
+
+
+
+
+
+
+
+### Six Vibrant Colors
+
+
+Yellow, orange, blue, red, green, and purple — each die face bursts with a distinct, eye-catching color for instant recognition.
+
+
+
+
+
+
+
+
+
+### Smart Background Exclusion
+
+
+Choose any background color — the system automatically excludes it from the dice, ensuring every roll is visually distinct and conflict-free.
+
+
+
+
+
+
+
+
+
+
+
+
+## What is Color a Dice?
+
+
+Color a Dice is an interactive color dice roller that lets you roll between 1 and 6 dice simultaneously. Each die displays one of six vibrant colors: yellow, orange, blue, red, green, and purple. Choose a custom background color, and the system intelligently excludes that color from appearing on any die — ensuring every result is always visible, distinct, and conflict-free against your chosen background.
+
+Try It Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Why Roll with Color a Dice?
+
+
+Designed for everyone — from family fun to classroom discovery and rapid prototyping.
+
+
+
+
+
+
+
+
+
+### Family Game Nights
+
+
+Add a colorful twist to board games. Roll vibrant dice that keep everyone engaged and make every turn exciting.
+
+
+
+
+
+
+
+
+### Classroom Learning
+
+
+Teach probability and color theory interactively. An engaging tool for students to explore math and art through play.
+
+
+
+
+
+
+
+
+### Game Developers
+
+
+Prototype color-based mechanics quickly. Test interactions and visualize outcomes with a clean, intuitive dice roller.
+
+
+
+
+
+
+
+
+
+
+## Frequently Asked Questions
+
+
+Everything you need to know about rolling with color a dice
+
+
+
+
+
+
+
+**Q: How many dice can I roll at once?**
+
+
+
+You can roll between 1 and 6 dice simultaneously. Simply use the dice count selector to choose how many dice you want on the board, then hit the roll button to see the colors appear!
+
+
+
+
+
+
+
+**Q: What colors can appear on the dice?**
+
+
+
+The dice feature six vibrant colors: Yellow, Orange, Blue, Red, Green, and Purple. Each die face displays one of these colors on every roll.
+
+
+
+
+
+
+
+**Q: Why doesn't my background color appear on the dice?**
+
+
+
+That's our smart exclusion system at work! When you select a custom background color, our algorithm automatically removes that color from the dice pool. This ensures the dice always remain visually distinct and never blend into the background — creating a clean, conflict-free experience every time.
+
+
+
+
+
+
+
+**Q: Can I use this on mobile?**
+
+
+
+Absolutely! color a dice is built as a fully responsive web application. Whether you're on a phone, tablet, or desktop, the dice roller adapts beautifully to your screen size. The touch-friendly controls make rolling on mobile just as fun as on desktop.
+
+
+
+
+
+
+
+**Q: Is it free to use?**
+
+
+
+Yes! color a dice is completely free to use with no hidden costs, subscriptions, or in-app purchases. Just open the app and start rolling — it's that simple. We believe fun, interactive tools should be accessible to everyone.
+
+
+
+
+
+
+
+
+
+
+
+## Ready to Roll?
+
+
+Have questions, feedback, or just want to say hi? Drop us a message and we'll get back to you faster than a dice roll.
+
+
+
+
+Name
+
+
+
+Email
+
+
+
+Message
+
+
+
+
+
+I have read and agree to the  Terms & Conditions  and  Privacy Policy
+
+
+Send Message
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roll into creativity — the interactive dice tool for gamers, storytellers, and creators.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- About
+
+- Why Use It
+
+- FAQ
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 color a dice. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+Generated by Zappy
+
+---
+
+## Privacy Policy
+
+URL: https://color-a-dice-9e9ddbc3.zappy5.app/privacy
+Description: Our privacy policy - how we collect, use, and protect your information
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- About
+- Why Use It
+- FAQ
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+# Privacy Policy
+
+
+
+Last Updated:  6/22/2026
+
+
+
+color a dice ("Company", "we", "our") is committed to protecting your privacy. This privacy policy explains how we collect, use and protect your information when you use our website [business_website] ("Service").
+
+
+## 1. Information Collection
+
+
+We may collect the following types of information:
+
+
+- Personal Information: Name, email address, phone number and address
+
+- Technical Information: IP address, browser type, operating system and website usage data
+
+- Cookies: Information stored on your computer to improve user experience
+
+
+
+
+## 2. Use of Information
+
+
+We use the collected information for the following purposes:
+
+
+- Providing requested services
+
+- Improving service and user experience
+
+- Contacting you regarding our services
+
+- Compliance with legal requirements
+
+
+
+
+## 3. Information Sharing
+
+
+We do not sell, rent or share your personal information with third parties, except in the following cases:
+
+
+- With your explicit consent
+
+- When required by law
+
+- To protect our rights or user safety
+
+- With service providers who assist in operating the service (under confidentiality agreements)
+
+
+
+
+## 4. User Rights
+
+
+In accordance with Israeli Privacy Protection Law 1981, you have the following rights:
+
+
+- Right to access personal information stored about you
+
+- Right to correct inaccurate or incomplete information
+
+- Right to delete personal information in certain circumstances
+
+- Right to object to information processing for marketing purposes
+
+- Right to file a complaint with the Data Protection Authority
+
+
+
+
+## 5. Cookies
+
+
+Our website uses cookies to improve user experience. You can manage cookies through your browser settings. Disabling cookies may affect website functionality.
+
+
+## 6. Information Security
+
+
+We implement reasonable security measures to protect your information, including encryption, firewalls and restricted access control. However, no transmission or storage method is 100% secure.
+
+
+## 7. Policy Changes
+
+
+We may update this privacy policy from time to time. Material changes will be posted on the website with 30 days advance notice.
+
+
+
+## 8. Contact Information
+
+
+For questions or requests regarding this privacy policy, please contact us:
+
+
+- Company: color a dice
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+- Address: [business_address]
+
+
+
+Data Protection Authority: For complaints, you may contact the Data Protection Authority at the Ministry of Justice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roll into creativity — the interactive dice tool for gamers, storytellers, and creators.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- About
+
+- Why Use It
+
+- FAQ
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 color a dice. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+Generated by Zappy
+
+---
+
+## Accessibility Statement
+
+URL: https://color-a-dice-9e9ddbc3.zappy5.app/accessibility
+Description: Our accessibility statement - our commitment to digital accessibility
+
+Accessibility Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- About
+- Why Use It
+- FAQ
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+# Accessibility Statement
+
+
+
+Last updated:  June 22, 2026
+
+
+
+color a dice is committed to making our services accessible to all users. We strive to implement the Israeli Standard (TI 5568) based on WCAG 2.1 Level AA guidelines.
+
+
+Accessibility Level: AA (Israeli Standard TI 5568)
+
+
+
+## 1. Accessibility Policy
+
+
+We believe in equal rights and the right of every person to receive information and services independently and equally. This website was designed and built with special emphasis on accessibility for people with disabilities.
+
+
+## 2. Accessibility Arrangements on the Site
+
+
+- Keyboard navigation support
+
+- Screen reader compatibility
+
+- Appropriate color contrast
+
+- Flexible and scalable font sizes
+
+- Descriptive image alt text
+
+- Hierarchical heading structure
+
+- Clear and descriptive links
+
+- Support for 200% zoom without content loss
+
+
+
+
+
+### WCAG 2.1 Compliance
+
+
+The website complies with WCAG 2.1 Level AA, which includes:
+
+
+- Perceivable: Information is presented in ways users can perceive
+
+- Operable: Interface components are operable
+
+- Understandable: Information and user interface are understandable
+
+- Robust: Content can be interpreted by a variety of technologies
+
+
+
+
+
+## 3. Supported Assistive Technologies
+
+
+- NVDA (Windows)
+
+- JAWS (Windows)
+
+- VoiceOver (Mac/iOS)
+
+- TalkBack (Android)
+
+- Dragon NaturallySpeaking
+
+- Switch navigation
+
+
+
+
+## 4. Accessibility Testing
+
+
+The website has been tested using:
+
+
+- Automated accessibility testing tools
+
+- Manual testing with screen readers
+
+- Keyboard-only navigation
+
+- Color contrast verification
+
+- Testing with users with disabilities
+
+
+
+
+## 5. Continuous Improvements
+
+
+We are continuously working to improve the accessibility of our website and update it according to technological developments and user feedback.
+
+
+
+## 6. Contact and Feedback
+
+
+If you encounter an accessibility issue on the site or need assistance, please contact us:
+
+
+- Company: color a dice
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+
+
+Response time: We respond to accessibility inquiries within 3 business days and work to resolve issues within 10 business days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roll into creativity — the interactive dice tool for gamers, storytellers, and creators.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- About
+
+- Why Use It
+
+- FAQ
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 color a dice. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+Generated by Zappy
+
+---
+
+## Terms & Conditions
+
+URL: https://color-a-dice-9e9ddbc3.zappy5.app/terms
+Description: Terms of service - user rights and obligations
+
+Terms & Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- About
+- Why Use It
+- FAQ
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+# Terms of Use
+
+
+
+Last updated:  June 22, 2026
+
+
+
+Use of this site constitutes agreement to the terms outlined below. Please read carefully before use.
+
+
+
+## 1. Definitions
+
+
+- "Company" - color a dice
+
+- "User" - Anyone who browses or uses the site
+
+- "Services" - Gaming / Interactive Tools provided through the site
+
+
+
+
+## 2. Description of Services
+
+
+color a dice provides Gaming / Interactive Tools through the site. The services are subject to the terms detailed in this document and may change from time to time.
+
+
+## 3. Terms of Use
+
+
+Use of the site is conditional on compliance with the following terms:
+
+
+- Use of the site for lawful purposes only
+
+- No interference with site operations or other users
+
+- No uploading of offensive, illegal, or harmful content
+
+- Respect for copyright and intellectual property rights
+
+- No actions that may compromise site security
+
+
+
+
+## 4. User Obligations
+
+
+- Providing accurate and truthful information during registration or ordering
+
+- Maintaining confidentiality of account access details
+
+- Immediate notification of any unauthorized account use
+
+- Updating personal information as needed
+
+
+
+
+## 5. Payment and Refund Policy
+
+
+If services include payment:
+
+
+- Payments are processed through secure and encrypted systems
+
+- Prices include applicable taxes as required by law
+
+- Right to cancel will be in accordance with consumer protection laws
+
+- Refunds will be processed within 14 business days of cancellation approval
+
+
+
+
+## 6. Limitation of Liability
+
+
+Services are provided "as is" without warranty of any kind. The Company will not be liable for indirect, consequential, or special damages arising from use of the site, except where required by law.
+
+
+## 7. Copyright and Intellectual Property
+
+
+All content on the site, including text, images, design, and code, is protected by copyright owned by color a dice. Reproduction, distribution, or commercial use of content is prohibited without written permission.
+
+
+## 8. Privacy
+
+
+Collection and use of personal information is subject to our Privacy Policy. Use of the site constitutes agreement to the Privacy Policy as detailed separately.
+
+
+## 9. Changes to Terms of Use
+
+
+The Company may change these terms of use at any time. Material changes will be posted on the site with 30 days advance notice. Continued use after changes constitutes agreement to the new terms.
+
+
+## 10. Service Termination
+
+
+The Company may suspend or limit service at any time, including in cases of terms of use violations. In case of service termination, relevant provisions will remain in effect.
+
+
+## 11. Governing Law and Dispute Resolution
+
+
+These terms of use are governed by applicable laws. Any disputes will be resolved in accordance with local jurisdiction, with preference given to arbitration or mediation where possible.
+
+
+## 12. General Provisions
+
+
+- If any portion of the terms is found invalid, remaining terms will remain in effect
+
+- Non-enforcement of a right will not be considered a waiver
+
+- These terms of use constitute the entire agreement between the parties
+
+
+
+
+
+## 13. Contact Information
+
+
+For questions or clarifications regarding the terms of use:
+
+
+- Company: color a dice
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+- Address: [business_address]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roll into creativity — the interactive dice tool for gamers, storytellers, and creators.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- About
+
+- Why Use It
+
+- FAQ
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 color a dice. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+Generated by Zappy
+
+---
+
+## Thank You | color a dice
+
+URL: https://color-a-dice-9e9ddbc3.zappy5.app/thank-you
+Description: color a dice - Thank You | color a dice
+
+Thank You | color a dice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- About
+- Why Use It
+- FAQ
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Message Received!
+
+
+
+### Your colorful inquiry is on its way.
+
+
+
+
+Your ticket number
+
+---
+
+
+
+
+We've got your message and our team of dice enthusiasts will get back to you as soon as possible. In the meantime, feel free to roll some more colors!
+
+
+
+
+
+Roll Again
+
+Back to Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roll into creativity — the interactive dice tool for gamers, storytellers, and creators.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- About
+
+- Why Use It
+
+- FAQ
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 color a dice. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+Generated by Zappy
+
+---
+

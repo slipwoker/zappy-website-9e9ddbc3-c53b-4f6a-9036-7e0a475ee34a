@@ -1,0 +1,69 @@
+# color a dice — Generative Engine Optimization Map
+
+> An interactive color dice roller web application that allows users to roll between 1 and 6 dice simultaneously. Each die displays one of six vibrant colors: yellow, orange, blue, red, green, and purple. Users can select a custom background color, and the system ensures that whichever color is chosen as the background will never appear on any of the dice — creating a visually distinct and conflict-free color experience.
+
+---
+
+## Pages
+
+### Home
+https://color-a-dice-9e9ddbc3.zappy5.app
+Unleash creativity with our interactive color dice roller! Roll 1–6 dice in vibrant hues—yellow, orange, blue, red, green, purple—on a custom background that never matches. Start rolling now!
+
+### Thank You | color a dice
+https://color-a-dice-9e9ddbc3.zappy5.app/thank-you
+color a dice - Thank You | color a dice
+
+## Legal & Policy
+
+### Privacy Policy
+https://color-a-dice-9e9ddbc3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://color-a-dice-9e9ddbc3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://color-a-dice-9e9ddbc3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://color-a-dice-9e9ddbc3.zappy5.app
+- Endpoint: https://color-a-dice-9e9ddbc3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About color a dice
+An interactive color dice roller web application that allows users to roll between 1 and 6 dice simultaneously. Each die displays one of six vibrant colors: yellow, orange, blue, red, green, and purple. Users can select a custom background color, and the system ensures that whichever color is chosen as the background will never appear on any of the dice — creating a visually distinct and conflict-free color experience.
+
+## Target Audience
+- Interactive Family Players
+- Color Theory Enthusiasts
+- Educational Game Developers
+
+## Industry
+Gaming / Interactive Tools
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://color-a-dice-9e9ddbc3.zappy5.app/sitemap.xml
+- Robots: https://color-a-dice-9e9ddbc3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://color-a-dice-9e9ddbc3.zappy5.app/llms-full.txt
