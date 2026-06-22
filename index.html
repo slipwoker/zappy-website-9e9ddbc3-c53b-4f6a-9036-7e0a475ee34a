@@ -238,7 +238,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&amp;display=swap">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <style>
     .skip-link { position: absolute; top: 0; left: 0; transform: translateY(-200%); padding: 12px 18px; background: var(--bg-dark, #1a1a1a); color: var(--text-light, #fff); font-weight: 600; border-radius: 0 0 8px 0; z-index: 10000; }
     .skip-link:focus { transform: none; outline: 2px solid var(--ring, #fff); outline-offset: 2px; }
@@ -355,16 +355,16 @@
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
-      <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
     <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
-      <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
   
   <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
   </button>
 
@@ -841,7 +841,7 @@
     <section data-band-index="0" id="hero" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim">
   <!-- Full-bleed background image (decorative, behind everything) -->
   <div class="home-hero-section__bg-wrapper" aria-hidden="true">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-hero-bg-1" data-context="Muted steel-blue gradient background with a subtle radial glow in the center, giving depth to the dice display area. Composition: full-bleed background fill. Framing: full-bleed, corner-to-corner. Background: muted steel-blue #6b8cae with subtle radial lighter glow at center. Treatment: full-bleed background" data-treatment="full-bleed background" data-dominant-color="#6b8cae" data-aspect-ratio="16:9" alt="Muted steel-blue gradient background with subtle radial center glow" width="1200" height="675" src="/assets/site-home-hero-hero-bg-1.webp">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-hero-bg-1" data-context="Muted steel-blue gradient background with a subtle radial glow in the center, giving depth to the dice display area. Composition: full-bleed background fill. Framing: full-bleed, corner-to-corner. Background: muted steel-blue #6b8cae with subtle radial lighter glow at center. Treatment: full-bleed background" data-treatment="full-bleed background" data-dominant-color="#6b8cae" data-aspect-ratio="16:9" alt="Muted steel-blue gradient background with subtle radial center glow" width="1200" height="675" src="/assets/site-home-hero-hero-bg-1.webp" data-hero-background="true" data-element-type="image" data-element-id="img-1782114933472-sthrq7r36">
   </div>
 
   <!-- Content rail (max-width: 1200px, centered, single column) -->
@@ -855,25 +855,18 @@
         
         <!-- Dice count selector (START side) -->
         <div class="home-hero-section__select-wrapper">
-          <label for="dice-count" class="home-hero-section__label">Dice</label>
-          <div class="home-hero-section__select">
-            <select id="dice-count" class="home-hero-section__dropdown">
-              <option value="1">1 DICE</option>
-              <option value="2">2 DICE</option>
-              <option value="3">3 DICE</option>
-              <option value="4">4 DICE</option>
-              <option value="5">5 DICE</option>
-              <option value="6">6 DICE</option>
-            </select>
-            <svg class="home-hero-section__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
+          <p class="zappy-editable"><label for="dice-count" class="home-hero-section__label" style="color: rgb(26, 42, 58) !important;">Dice</label>
+          </p><div class="home-hero-section__select">
+            <select id="dice-count" class="home-hero-section__dropdown zappy-editable-dropdown"><option value="1">1 DICE</option><option value="2">2 DICE</option><option value="3">3 DICE</option><option value="4">4 DICE</option><option value="5">5 DICE</option><option value="6">6 DICE</option></select>
+            <svg class="home-hero-section__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-element-type="icon" data-element-id="icon-1782114933472-qzrvj8l2i" data-icon-type="svg"><polyline points="6 9 12 15 18 9"></polyline></svg>
           </div>
         </div>
 
         <!-- Background color selector (END side) -->
         <div class="home-hero-section__select-wrapper">
-          <label for="bg-color" class="home-hero-section__label">Background</label>
-          <div class="home-hero-section__select">
-            <select id="bg-color" class="home-hero-section__dropdown">
+          <p class="zappy-editable"><label for="bg-color" class="home-hero-section__label" style="color: rgb(26, 42, 58) !important;">Background</label>
+          </p><div class="home-hero-section__select">
+            <select id="bg-color" class="home-hero-section__dropdown zappy-editable-dropdown">
               <option value="none">No Exclude</option>
               <option value="yellow">Yellow</option>
               <option value="orange">Orange</option>
@@ -882,7 +875,7 @@
               <option value="green">Green</option>
               <option value="purple">Purple</option>
             </select>
-            <svg class="home-hero-section__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
+            <svg class="home-hero-section__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-element-type="icon" data-element-id="icon-1782114933472-85mdc8t86" data-icon-type="svg"><polyline points="6 9 12 15 18 9"></polyline></svg>
           </div>
         </div>
 
@@ -890,14 +883,14 @@
 
       <!-- Large centered dice display area -->
       <div class="home-hero-section__dice-area">
-        <img loading="lazy" decoding="async" data-placeholder="home-hero-hero-image-2" data-context="A single green dice face showing one white dot (value 1) centered on screen, rendered as a large rounded-square tile with a white glow border and drop shadow. Composition: isolated cutout, centered on page. Framing: centered with generous negative space on all sides. Background: transparent over steel-blue gradient. Treatment: background-removed cutout" data-treatment="background-removed cutout" data-dominant-color="#2e8b2e" data-aspect-ratio="1:1" class="home-hero-section__dice-img cutout" alt="Green dice face showing one white pip" width="600" height="600" src="/assets/site-home-hero-hero-image-2.webp">
+        <img loading="lazy" decoding="async" data-placeholder="home-hero-hero-image-2" data-context="A single green dice face showing one white dot (value 1) centered on screen, rendered as a large rounded-square tile with a white glow border and drop shadow. Composition: isolated cutout, centered on page. Framing: centered with generous negative space on all sides. Background: transparent over steel-blue gradient. Treatment: background-removed cutout" data-treatment="background-removed cutout" data-dominant-color="#2e8b2e" data-aspect-ratio="1:1" class="home-hero-section__dice-img cutout" alt="Green dice face showing one white pip" width="600" height="600" src="/assets/site-home-hero-hero-image-2.webp" data-element-type="image" data-element-id="img-1782114933473-l7hteiq2r">
         <!-- Single pip dot decorative motif over the dice -->
-        <svg class="home-hero-section__pip" viewBox="0 0 24 24" fill="white" aria-hidden="true"><circle cx="12" cy="12" r="3"/></svg>
+        <svg class="home-hero-section__pip" viewBox="0 0 24 24" fill="white" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle></svg>
       </div>
 
       <!-- ROLL AGAIN CTA button -->
-      <button class="home-hero-section__cta" type="button">
-        <svg class="home-hero-section__cta-icon" viewBox="0 0 24 24" fill="white" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="4" ry="4"/><circle cx="8" cy="8" r="1.5" fill="#2196f3"/><circle cx="16" cy="16" r="1.5" fill="#2196f3"/><circle cx="16" cy="8" r="1.5" fill="#2196f3"/><circle cx="8" cy="16" r="1.5" fill="#2196f3"/></svg>
+      <button class="home-hero-section__cta" type="button" style="color: rgb(26, 42, 58) !important;" data-element-type="button" data-element-id="btn-1782114933462-rg7rqf4yl" data-native-element="true">
+        <svg class="home-hero-section__cta-icon" viewBox="0 0 24 24" fill="white" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="4" ry="4"></rect><circle cx="8" cy="8" r="1.5" fill="#2196f3"></circle><circle cx="16" cy="16" r="1.5" fill="#2196f3"></circle><circle cx="16" cy="8" r="1.5" fill="#2196f3"></circle><circle cx="8" cy="16" r="1.5" fill="#2196f3"></circle></svg>
         ROLL AGAIN
       </button>
 
@@ -916,14 +909,14 @@
       <article class="home-features-section__card">
         <div class="home-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect x="4" y="4" width="40" height="40" rx="8" stroke="currentColor" stroke-width="2.5" fill="none"/>
-            <circle cx="14" cy="14" r="2.5" fill="currentColor"/>
-            <circle cx="34" cy="34" r="2.5" fill="currentColor"/>
-            <circle cx="14" cy="34" r="2.5" fill="currentColor"/>
-            <circle cx="34" cy="14" r="2.5" fill="currentColor"/>
-            <circle cx="24" cy="24" r="2.5" fill="currentColor"/>
-            <rect x="18" y="8" width="12" height="5" rx="2.5" fill="currentColor" opacity="0.3"/>
-            <rect x="18" y="35" width="12" height="5" rx="2.5" fill="currentColor" opacity="0.3"/>
+            <rect x="4" y="4" width="40" height="40" rx="8" stroke="currentColor" stroke-width="2.5" fill="none"></rect>
+            <circle cx="14" cy="14" r="2.5" fill="currentColor"></circle>
+            <circle cx="34" cy="34" r="2.5" fill="currentColor"></circle>
+            <circle cx="14" cy="34" r="2.5" fill="currentColor"></circle>
+            <circle cx="34" cy="14" r="2.5" fill="currentColor"></circle>
+            <circle cx="24" cy="24" r="2.5" fill="currentColor"></circle>
+            <rect x="18" y="8" width="12" height="5" rx="2.5" fill="currentColor" opacity="0.3"></rect>
+            <rect x="18" y="35" width="12" height="5" rx="2.5" fill="currentColor" opacity="0.3"></rect>
           </svg>
         </div>
         <h3 class="home-features-section__card-title">Roll 1–6 Dice</h3>
@@ -934,12 +927,12 @@
       <article class="home-features-section__card">
         <div class="home-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="14" cy="14" r="8" fill="#F59E0B" stroke="currentColor" stroke-width="2"/>
-            <circle cx="34" cy="14" r="8" fill="#EF4444" stroke="currentColor" stroke-width="2"/>
-            <circle cx="24" cy="34" r="8" fill="#3B82F6" stroke="currentColor" stroke-width="2"/>
-            <circle cx="14" cy="38" r="8" fill="#10B981" stroke="currentColor" stroke-width="2"/>
-            <circle cx="34" cy="38" r="8" fill="#8B5CF6" stroke="currentColor" stroke-width="2"/>
-            <circle cx="24" cy="14" r="8" fill="#F97316" stroke="currentColor" stroke-width="2"/>
+            <circle cx="14" cy="14" r="8" fill="#F59E0B" stroke="currentColor" stroke-width="2"></circle>
+            <circle cx="34" cy="14" r="8" fill="#EF4444" stroke="currentColor" stroke-width="2"></circle>
+            <circle cx="24" cy="34" r="8" fill="#3B82F6" stroke="currentColor" stroke-width="2"></circle>
+            <circle cx="14" cy="38" r="8" fill="#10B981" stroke="currentColor" stroke-width="2"></circle>
+            <circle cx="34" cy="38" r="8" fill="#8B5CF6" stroke="currentColor" stroke-width="2"></circle>
+            <circle cx="24" cy="14" r="8" fill="#F97316" stroke="currentColor" stroke-width="2"></circle>
           </svg>
         </div>
         <h3 class="home-features-section__card-title">Six Vibrant Colors</h3>
@@ -950,11 +943,11 @@
       <article class="home-features-section__card">
         <div class="home-features-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect x="4" y="4" width="40" height="40" rx="10" stroke="currentColor" stroke-width="2.5" fill="none"/>
-            <path d="M14 20 L24 14 L34 20 L34 32 L24 38 L14 32 Z" stroke="currentColor" stroke-width="2" fill="none"/>
-            <circle cx="24" cy="26" r="4" fill="currentColor"/>
-            <line x1="24" y1="4" x2="24" y2="14" stroke="currentColor" stroke-width="2" stroke-dasharray="3 3"/>
-            <line x1="24" y1="38" x2="24" y2="44" stroke="currentColor" stroke-width="2" stroke-dasharray="3 3"/>
+            <rect x="4" y="4" width="40" height="40" rx="10" stroke="currentColor" stroke-width="2.5" fill="none"></rect>
+            <path d="M14 20 L24 14 L34 20 L34 32 L24 38 L14 32 Z" stroke="currentColor" stroke-width="2" fill="none"></path>
+            <circle cx="24" cy="26" r="4" fill="currentColor"></circle>
+            <line x1="24" y1="4" x2="24" y2="14" stroke="currentColor" stroke-width="2" stroke-dasharray="3 3"></line>
+            <line x1="24" y1="38" x2="24" y2="44" stroke="currentColor" stroke-width="2" stroke-dasharray="3 3"></line>
           </svg>
         </div>
         <h3 class="home-features-section__card-title">Smart Background Exclusion</h3>
@@ -980,47 +973,47 @@
         <div class="home-about-section__dice-grid">
           <div class="home-about-section__die home-about-section__die--yellow">
             <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 100 100" class="home-about-section__die-svg">
-              <circle cx="50" cy="50" r="8" fill="currentColor"/>
+              <circle cx="50" cy="50" r="8" fill="currentColor"></circle>
             </svg>
           </div>
           <div class="home-about-section__die home-about-section__die--orange">
             <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 100 100" class="home-about-section__die-svg">
-              <circle cx="30" cy="30" r="8" fill="currentColor"/>
-              <circle cx="70" cy="70" r="8" fill="currentColor"/>
+              <circle cx="30" cy="30" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="70" r="8" fill="currentColor"></circle>
             </svg>
           </div>
           <div class="home-about-section__die home-about-section__die--blue">
             <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 100 100" class="home-about-section__die-svg">
-              <circle cx="30" cy="30" r="8" fill="currentColor"/>
-              <circle cx="50" cy="50" r="8" fill="currentColor"/>
-              <circle cx="70" cy="70" r="8" fill="currentColor"/>
+              <circle cx="30" cy="30" r="8" fill="currentColor"></circle>
+              <circle cx="50" cy="50" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="70" r="8" fill="currentColor"></circle>
             </svg>
           </div>
           <div class="home-about-section__die home-about-section__die--red">
             <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 100 100" class="home-about-section__die-svg">
-              <circle cx="30" cy="30" r="8" fill="currentColor"/>
-              <circle cx="70" cy="30" r="8" fill="currentColor"/>
-              <circle cx="30" cy="70" r="8" fill="currentColor"/>
-              <circle cx="70" cy="70" r="8" fill="currentColor"/>
+              <circle cx="30" cy="30" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="30" r="8" fill="currentColor"></circle>
+              <circle cx="30" cy="70" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="70" r="8" fill="currentColor"></circle>
             </svg>
           </div>
           <div class="home-about-section__die home-about-section__die--green">
             <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 100 100" class="home-about-section__die-svg">
-              <circle cx="30" cy="30" r="8" fill="currentColor"/>
-              <circle cx="70" cy="30" r="8" fill="currentColor"/>
-              <circle cx="50" cy="50" r="8" fill="currentColor"/>
-              <circle cx="30" cy="70" r="8" fill="currentColor"/>
-              <circle cx="70" cy="70" r="8" fill="currentColor"/>
+              <circle cx="30" cy="30" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="30" r="8" fill="currentColor"></circle>
+              <circle cx="50" cy="50" r="8" fill="currentColor"></circle>
+              <circle cx="30" cy="70" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="70" r="8" fill="currentColor"></circle>
             </svg>
           </div>
           <div class="home-about-section__die home-about-section__die--purple">
             <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 100 100" class="home-about-section__die-svg">
-              <circle cx="30" cy="25" r="8" fill="currentColor"/>
-              <circle cx="70" cy="25" r="8" fill="currentColor"/>
-              <circle cx="30" cy="50" r="8" fill="currentColor"/>
-              <circle cx="70" cy="50" r="8" fill="currentColor"/>
-              <circle cx="30" cy="75" r="8" fill="currentColor"/>
-              <circle cx="70" cy="75" r="8" fill="currentColor"/>
+              <circle cx="30" cy="25" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="25" r="8" fill="currentColor"></circle>
+              <circle cx="30" cy="50" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="50" r="8" fill="currentColor"></circle>
+              <circle cx="30" cy="75" r="8" fill="currentColor"></circle>
+              <circle cx="70" cy="75" r="8" fill="currentColor"></circle>
             </svg>
           </div>
         </div>
@@ -1040,9 +1033,9 @@
       <article class="home-benefits-section__card">
         <div class="home-benefits-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-            <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5"/>
-            <path d="M9 9L15 15M15 9L9 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-            <circle cx="12" cy="12" r="2" fill="currentColor"/>
+            <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5"></circle>
+            <path d="M9 9L15 15M15 9L9 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+            <circle cx="12" cy="12" r="2" fill="currentColor"></circle>
           </svg>
         </div>
         <h3 class="home-benefits-section__card-title">Family Game Nights</h3>
@@ -1052,9 +1045,9 @@
       <article class="home-benefits-section__card">
         <div class="home-benefits-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-            <rect x="4" y="6" width="16" height="12" rx="1.5" stroke="currentColor" stroke-width="1.5"/>
-            <path d="M8 10H16M8 13H13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-            <circle cx="18" cy="5" r="2" fill="currentColor"/>
+            <rect x="4" y="6" width="16" height="12" rx="1.5" stroke="currentColor" stroke-width="1.5"></rect>
+            <path d="M8 10H16M8 13H13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+            <circle cx="18" cy="5" r="2" fill="currentColor"></circle>
           </svg>
         </div>
         <h3 class="home-benefits-section__card-title">Classroom Learning</h3>
@@ -1064,8 +1057,8 @@
       <article class="home-benefits-section__card">
         <div class="home-benefits-section__card-icon">
           <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-            <path d="M6 5L18 5C19.1046 5 20 5.89543 20 7L20 17C20 18.1046 19.1046 19 18 19L6 19C4.89543 19 4 18.1046 4 17L4 7C4 5.89543 4.89543 5 6 5Z" stroke="currentColor" stroke-width="1.5"/>
-            <path d="M9 8L9 16M15 8L15 16M6 12L18 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <path d="M6 5L18 5C19.1046 5 20 5.89543 20 7L20 17C20 18.1046 19.1046 19 18 19L6 19C4.89543 19 4 18.1046 4 17L4 7C4 5.89543 4.89543 5 6 5Z" stroke="currentColor" stroke-width="1.5"></path>
+            <path d="M9 8L9 16M15 8L15 16M6 12L18 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
           </svg>
         </div>
         <h3 class="home-benefits-section__card-title">Game Developers</h3>
@@ -1084,12 +1077,12 @@
 
     <div class="home-faq-section__list">
       <!-- FAQ Item 1 -->
-      <details class="faq-item" open>
+      <details class="faq-item" open="">
         <summary class="faq-item__question">
           <span class="faq-item__question-text">How many dice can I roll at once?</span>
           <span class="faq-item__icon" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
             </svg>
           </span>
         </summary>
@@ -1104,7 +1097,7 @@
           <span class="faq-item__question-text">What colors can appear on the dice?</span>
           <span class="faq-item__icon" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
             </svg>
           </span>
         </summary>
@@ -1119,7 +1112,7 @@
           <span class="faq-item__question-text">Why doesn't my background color appear on the dice?</span>
           <span class="faq-item__icon" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
             </svg>
           </span>
         </summary>
@@ -1134,7 +1127,7 @@
           <span class="faq-item__question-text">Can I use this on mobile?</span>
           <span class="faq-item__icon" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
             </svg>
           </span>
         </summary>
@@ -1149,7 +1142,7 @@
           <span class="faq-item__question-text">Is it free to use?</span>
           <span class="faq-item__icon" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
             </svg>
           </span>
         </summary>
@@ -1170,19 +1163,19 @@
     <form class="contact-form home-cta-section__form">
       <div class="home-cta-section__input-group">
         <label for="cta-name" class="home-cta-section__label">Name</label>
-        <input type="text" id="cta-name" name="name" class="home-cta-section__input" placeholder="Your name" required>
+        <input type="text" id="cta-name" name="name" class="home-cta-section__input" placeholder="Your name" required="">
       </div>
       <div class="home-cta-section__input-group">
         <label for="cta-email" class="home-cta-section__label">Email</label>
-        <input type="email" id="cta-email" name="email" class="home-cta-section__input" placeholder="you@example.com" required>
+        <input type="email" id="cta-email" name="email" class="home-cta-section__input" placeholder="you@example.com" required="">
       </div>
       <div class="home-cta-section__input-group">
         <label for="cta-message" class="home-cta-section__label">Message</label>
-        <textarea id="cta-message" name="message" class="home-cta-section__textarea" rows="4" placeholder="Tell us what you think..." required></textarea>
+        <textarea id="cta-message" name="message" class="home-cta-section__textarea" rows="4" placeholder="Tell us what you think..." required=""></textarea>
       </div>
       <div class="privacy-consent home-cta-section__consent">
         <label class="privacy-consent-label home-cta-section__consent-label">
-          <input type="checkbox" name="privacy_consent" class="privacy-consent-checkbox home-cta-section__checkbox" required>
+          <input type="checkbox" name="privacy_consent" class="privacy-consent-checkbox home-cta-section__checkbox" required="">
           <span class="home-cta-section__consent-text">I have read and agree to the <a href="/terms" target="_blank" class="home-cta-section__consent-link" style="color: #FFFFFF !important">Terms &amp; Conditions</a> and <a href="/privacy" target="_blank" class="home-cta-section__consent-link" style="color: #FFFFFF !important">Privacy Policy</a></span>
         </label>
       </div>
@@ -1191,10 +1184,10 @@
   </div>
   <!-- Decorative dice icons -->
   <div class="home-cta-section__decoration home-cta-section__decoration--left" aria-hidden="true">
-    <svg data-element-type="icon" data-icon-type="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="4" ry="4"/><circle cx="8" cy="8" r="1.5"/><circle cx="16" cy="16" r="1.5"/><circle cx="16" cy="8" r="1.5"/><circle cx="8" cy="16" r="1.5"/></svg>
+    <svg data-element-type="icon" data-icon-type="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="4" ry="4"></rect><circle cx="8" cy="8" r="1.5"></circle><circle cx="16" cy="16" r="1.5"></circle><circle cx="16" cy="8" r="1.5"></circle><circle cx="8" cy="16" r="1.5"></circle></svg>
   </div>
   <div class="home-cta-section__decoration home-cta-section__decoration--right" aria-hidden="true">
-    <svg data-element-type="icon" data-icon-type="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="4" ry="4"/><circle cx="12" cy="8" r="1.5"/><circle cx="8" cy="12" r="1.5"/><circle cx="16" cy="12" r="1.5"/><circle cx="12" cy="16" r="1.5"/></svg>
+    <svg data-element-type="icon" data-icon-type="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="4" ry="4"></rect><circle cx="12" cy="8" r="1.5"></circle><circle cx="8" cy="12" r="1.5"></circle><circle cx="16" cy="12" r="1.5"></circle><circle cx="12" cy="16" r="1.5"></circle></svg>
   </div>
 </section>
   </main>
